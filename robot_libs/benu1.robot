@@ -8,7 +8,7 @@ Library  SeleniumLibrary
 Főoldal - Belépés Google.com
     [Documentation]  Open Google
     [Tags]  Smoke
-    Open Browser  https://www.google.com  chrome
+    Open Browser  https://www.google.com  phantomjs
 
     Close Browser
 
