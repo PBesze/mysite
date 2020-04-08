@@ -1,6 +1,5 @@
 pip==20.0.2
-sqlite3
-django
+django==2.1.2
 gunicorn
 robotframework
 selenium
