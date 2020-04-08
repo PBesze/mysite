@@ -25,7 +25,7 @@ SECRET_KEY = 'y^ip4_aave1x29qa_jbl5^edn4sggq^7mqt@&u%-8w06u)ou+f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysite-mysite.apps.us-east-2.starter.openshift-online.com']
 
 
 # Application definition
