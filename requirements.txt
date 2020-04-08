@@ -1,4 +1,4 @@
-pysqlite3
+pysqlite3==3.28.0
 django
 gunicorn
 robotframework
