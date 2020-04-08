@@ -4,3 +4,4 @@ gunicorn
 robotframework
 selenium
 robotframework-selenium2library
+firefox
