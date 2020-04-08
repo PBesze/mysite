@@ -1,0 +1,13 @@
+{% load static %}
+
+{% block content %}
+<div>
+<form method="post">
+    {% csrf_token %}
+    <button type="submit" name="benu1">Google test</button>
+</form>
+</div>
+<div class="jumbotron text-center">
+  Heloo bello
+</div>
+{% endblock %}
