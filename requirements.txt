@@ -1,4 +1,4 @@
-SQLite
+pysqlite3
 django
 gunicorn
 robotframework
