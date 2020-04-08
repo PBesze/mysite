@@ -4,4 +4,3 @@ gunicorn
 robotframework
 selenium
 robotframework-selenium2library
-google-chrome-stable
