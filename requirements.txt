@@ -1,5 +1,5 @@
 pip==20.0.2
-sqlite3==3.28.0
+sqlite3
 django
 gunicorn
 robotframework
